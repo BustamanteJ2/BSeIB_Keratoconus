@@ -22,6 +22,7 @@ sugiere la viabilidad de utilizar este enfoque para el diagnóstico temprano de 
 > **10056926-BSeIB-Recurso.ipynb**: Notebook de Python donde se detalla código de apoyo para obtener las direcciones path relativas de los mapas topográficos corneales almacenados en ambas carpetas (mencionadas con anterioridad).
 > **independent_test_path.csv**: Archivo CSV resultante de la ejecución de ‘10056926-BSeIB-Recurso.ipynb’. Alberga las rutas path relativas de las los mapas topográficos corneales almacenados en la carpeta Independent Test Set.
 > **train_validation_path.csv**: Archivo CSV resultante de la ejecución de ‘10056926-BSeIB-Recurso.ipynb’. Alberga las rutas path relativas de las los mapas topográficos corneales almacenados en la carpeta Train_Validation sets.
-> ** 10056926-BustamanteJ-BSeIB-Proy.ipynb**: Notebook de Python donde se realiza el “Sistema de diagnóstico de queratocono basado en inferencia bayesiana”. 
+> **10056926-BustamanteJ-BSeIB-Proy.ipynb**: Notebook de Python donde se realiza el “Sistema de diagnóstico de queratocono basado en inferencia bayesiana”.
+> **10056926_BSeIB_Reporte.pdf**: Notebook de Python donde se realiza el “Sistema de diagnóstico de queratocono basado en inferencia bayesiana”. 
 
 
